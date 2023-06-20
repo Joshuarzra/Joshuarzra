@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO EVERYNYAN, How are you? 👋
+
+I'm currently a major student of the National Autonomous University of Mexico.
 
 <!--
 **Joshuarzra/Joshuarzra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
